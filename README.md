@@ -1,5 +1,4 @@
 # hello-world
-It's all in the name
 
 Am I doing the right thing? It's someone's grave.
 
